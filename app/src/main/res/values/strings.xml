@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">YourRecipes</string>
+    <string name="appTitle">Your Recipes</string>
+    <string name="description">Your favorite recipes with you all the time</string>
+    <string name="startButton">Start Cooking</string>
 </resources>
