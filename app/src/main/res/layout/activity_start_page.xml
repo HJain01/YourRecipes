@@ -39,4 +39,12 @@
         tools:layout_editor_absoluteX="125dp"
         tools:layout_editor_absoluteY="388dp" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="289dp"
+        android:layout_height="240dp"
+        app:srcCompat="@drawable/start_book"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="171dp" />
+
 </android.support.constraint.ConstraintLayout>

@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PreferencesPage"
+            android:label="@string/title_activity_preferences_page" />
     </application>
 
 </manifest>
